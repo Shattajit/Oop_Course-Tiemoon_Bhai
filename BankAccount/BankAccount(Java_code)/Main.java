@@ -5,7 +5,9 @@ public class Main {
         BankAccount account2 = new BankAccount("0987654321", "Jane Doe", 500);
 
         account1.Deposit(500);
+        
         account1.Withdraw(200);
+
         account1.Transfer(account2, 300);
     }
 }
