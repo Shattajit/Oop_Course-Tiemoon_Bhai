@@ -1,0 +1,15 @@
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/bin/Debug/net8.0/CreditCard(C#_Code)
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/bin/Debug/net8.0/CreditCard(C#_Code).deps.json
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/bin/Debug/net8.0/CreditCard(C#_Code).runtimeconfig.json
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/bin/Debug/net8.0/CreditCard(C#_Code).dll
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/bin/Debug/net8.0/CreditCard(C#_Code).pdb
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/obj/Debug/net8.0/CreditCard(C#_Code).GeneratedMSBuildEditorConfig.editorconfig
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/obj/Debug/net8.0/CreditCard(C#_Code).AssemblyInfoInputs.cache
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/obj/Debug/net8.0/CreditCard(C#_Code).AssemblyInfo.cs
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/obj/Debug/net8.0/CreditCard(C#_Code).csproj.CoreCompileInputs.cache
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/obj/Debug/net8.0/CreditCard(C#_Code).sourcelink.json
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/obj/Debug/net8.0/CreditCard(C#_Code).dll
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/obj/Debug/net8.0/refint/CreditCard(C#_Code).dll
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/obj/Debug/net8.0/CreditCard(C#_Code).pdb
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/obj/Debug/net8.0/CreditCard(C#_Code).genruntimeconfig.cache
+/home/shattajit/Desktop/Oop_Course/CreditCard/CreditCard(C#_Code)/obj/Debug/net8.0/ref/CreditCard(C#_Code).dll
