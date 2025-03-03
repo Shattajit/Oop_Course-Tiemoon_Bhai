@@ -1,0 +1,15 @@
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/obj/Debug/net8.0/ValueTypeAndReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/obj/Debug/net8.0/ValueTypeAndReferenceType.AssemblyInfoInputs.cache
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/obj/Debug/net8.0/ValueTypeAndReferenceType.AssemblyInfo.cs
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/obj/Debug/net8.0/ValueTypeAndReferenceType.csproj.CoreCompileInputs.cache
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/obj/Debug/net8.0/ValueTypeAndReferenceType.sourcelink.json
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/bin/Debug/net8.0/ValueTypeAndReferenceType
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/bin/Debug/net8.0/ValueTypeAndReferenceType.deps.json
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/bin/Debug/net8.0/ValueTypeAndReferenceType.runtimeconfig.json
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/bin/Debug/net8.0/ValueTypeAndReferenceType.dll
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/bin/Debug/net8.0/ValueTypeAndReferenceType.pdb
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/obj/Debug/net8.0/ValueTypeAndReferenceType.dll
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/obj/Debug/net8.0/refint/ValueTypeAndReferenceType.dll
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/obj/Debug/net8.0/ValueTypeAndReferenceType.pdb
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/obj/Debug/net8.0/ValueTypeAndReferenceType.genruntimeconfig.cache
+/home/shattajit/Desktop/Oop_Course/ValueTypeAndReferenceType/obj/Debug/net8.0/ref/ValueTypeAndReferenceType.dll
