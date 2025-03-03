@@ -1,0 +1,15 @@
+/home/shattajit/Desktop/Oop_Course/CarRental/obj/Debug/net8.0/CarRental.GeneratedMSBuildEditorConfig.editorconfig
+/home/shattajit/Desktop/Oop_Course/CarRental/obj/Debug/net8.0/CarRental.AssemblyInfoInputs.cache
+/home/shattajit/Desktop/Oop_Course/CarRental/obj/Debug/net8.0/CarRental.AssemblyInfo.cs
+/home/shattajit/Desktop/Oop_Course/CarRental/obj/Debug/net8.0/CarRental.csproj.CoreCompileInputs.cache
+/home/shattajit/Desktop/Oop_Course/CarRental/obj/Debug/net8.0/CarRental.sourcelink.json
+/home/shattajit/Desktop/Oop_Course/CarRental/bin/Debug/net8.0/CarRental
+/home/shattajit/Desktop/Oop_Course/CarRental/bin/Debug/net8.0/CarRental.deps.json
+/home/shattajit/Desktop/Oop_Course/CarRental/bin/Debug/net8.0/CarRental.runtimeconfig.json
+/home/shattajit/Desktop/Oop_Course/CarRental/bin/Debug/net8.0/CarRental.dll
+/home/shattajit/Desktop/Oop_Course/CarRental/bin/Debug/net8.0/CarRental.pdb
+/home/shattajit/Desktop/Oop_Course/CarRental/obj/Debug/net8.0/CarRental.dll
+/home/shattajit/Desktop/Oop_Course/CarRental/obj/Debug/net8.0/refint/CarRental.dll
+/home/shattajit/Desktop/Oop_Course/CarRental/obj/Debug/net8.0/CarRental.pdb
+/home/shattajit/Desktop/Oop_Course/CarRental/obj/Debug/net8.0/CarRental.genruntimeconfig.cache
+/home/shattajit/Desktop/Oop_Course/CarRental/obj/Debug/net8.0/ref/CarRental.dll
