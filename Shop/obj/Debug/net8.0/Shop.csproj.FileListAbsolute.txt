@@ -1,0 +1,15 @@
+/home/shattajit/Desktop/Oop_Course/Shop/bin/Debug/net8.0/Shop
+/home/shattajit/Desktop/Oop_Course/Shop/bin/Debug/net8.0/Shop.deps.json
+/home/shattajit/Desktop/Oop_Course/Shop/bin/Debug/net8.0/Shop.runtimeconfig.json
+/home/shattajit/Desktop/Oop_Course/Shop/bin/Debug/net8.0/Shop.dll
+/home/shattajit/Desktop/Oop_Course/Shop/bin/Debug/net8.0/Shop.pdb
+/home/shattajit/Desktop/Oop_Course/Shop/obj/Debug/net8.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+/home/shattajit/Desktop/Oop_Course/Shop/obj/Debug/net8.0/Shop.AssemblyInfoInputs.cache
+/home/shattajit/Desktop/Oop_Course/Shop/obj/Debug/net8.0/Shop.AssemblyInfo.cs
+/home/shattajit/Desktop/Oop_Course/Shop/obj/Debug/net8.0/Shop.csproj.CoreCompileInputs.cache
+/home/shattajit/Desktop/Oop_Course/Shop/obj/Debug/net8.0/Shop.sourcelink.json
+/home/shattajit/Desktop/Oop_Course/Shop/obj/Debug/net8.0/Shop.dll
+/home/shattajit/Desktop/Oop_Course/Shop/obj/Debug/net8.0/refint/Shop.dll
+/home/shattajit/Desktop/Oop_Course/Shop/obj/Debug/net8.0/Shop.pdb
+/home/shattajit/Desktop/Oop_Course/Shop/obj/Debug/net8.0/Shop.genruntimeconfig.cache
+/home/shattajit/Desktop/Oop_Course/Shop/obj/Debug/net8.0/ref/Shop.dll
