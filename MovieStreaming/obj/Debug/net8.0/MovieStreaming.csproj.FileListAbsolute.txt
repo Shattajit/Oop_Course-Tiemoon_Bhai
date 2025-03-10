@@ -1,0 +1,15 @@
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/obj/Debug/net8.0/MovieStreaming.GeneratedMSBuildEditorConfig.editorconfig
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/obj/Debug/net8.0/MovieStreaming.AssemblyInfoInputs.cache
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/obj/Debug/net8.0/MovieStreaming.AssemblyInfo.cs
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/obj/Debug/net8.0/MovieStreaming.csproj.CoreCompileInputs.cache
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/obj/Debug/net8.0/MovieStreaming.sourcelink.json
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/bin/Debug/net8.0/MovieStreaming
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/bin/Debug/net8.0/MovieStreaming.deps.json
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/bin/Debug/net8.0/MovieStreaming.runtimeconfig.json
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/bin/Debug/net8.0/MovieStreaming.dll
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/bin/Debug/net8.0/MovieStreaming.pdb
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/obj/Debug/net8.0/MovieStreaming.dll
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/obj/Debug/net8.0/refint/MovieStreaming.dll
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/obj/Debug/net8.0/MovieStreaming.pdb
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/obj/Debug/net8.0/MovieStreaming.genruntimeconfig.cache
+/home/shattajit/Desktop/Oop_Course/MovieStreaming/obj/Debug/net8.0/ref/MovieStreaming.dll
