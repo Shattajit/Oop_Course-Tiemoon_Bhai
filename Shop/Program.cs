@@ -1,17 +1,26 @@
-﻿
+﻿class Program
+{
+    static void Main()
+    {
+        // Create Shop and Add Products
+        Shop shop = new Shop();
+        shop.AddProduct(new Grocery(1, "Milk", 1.5, "2025-03-01"));
+        shop.AddProduct(new Grocery(2, "Bread", 2.0, "2025-03-05"));
+        shop.AddProduct(new Accessory(3, "Watch", 50, "Rolex"));
+        shop.AddProduct(new Accessory(4, "Sunglasses", 30, "RayBan"));
 
-class Program{
+        // Show available products
+        shop.ShowProducts();
 
-    public static void Main(string[] args){
+        // Create Customer
+        Customer customer = new Customer("John", shop);
 
-        Customer customer = new Customer("Shattajit");
+        // Customer buys products by ID
+        customer.BuyProduct(1); // Buying Milk
+        customer.BuyProduct(3); // Buying Watch
+        customer.BuyProduct(10); // Invalid ID
 
-        Product product1 = new Grocery("Milk", 2.50, new DateTime(2025, 5, 1));  
-        Product product2 = new Accesories("Headphones", 150.75, "Sony"); 
-
-        customer.Buy(product1);
-        customer.Buy(product2);
-
-        customer.Checkout();
+        // Show cart
+        customer.ShowCart();
     }
 }

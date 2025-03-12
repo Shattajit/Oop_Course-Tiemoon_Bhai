@@ -1,13 +1,15 @@
-public class Accesories: Product{
+class Accessory : Product
+{
+    public string Brand { get; set; }
 
-   public string brand {get; set;}
-
-    public Accesories(string accesoriesName, double price, string brand):base(accesoriesName, price){
-       this.brand = brand;
+    public Accessory(int id, string name, double price, string brand)
+        : base(id, name, price)
+    {
+        Brand = brand;
     }
 
-    public override void getProductInfo(){
-        Console.WriteLine($"Accesories: {getProductName()} and price: {getProductPrice()}");
-    } 
-
+    public override void DisplayProductInfo()
+    {
+        Console.WriteLine($"ID: {Id} | Accessory: {Name}, Price: {Price}$, Brand: {Brand}");
+    }
 }

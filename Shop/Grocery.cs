@@ -1,13 +1,15 @@
-public class Grocery: Product{
+class Grocery : Product
+{
+    public string ExpiryDate { get; set; }
 
-   public DateTime expiryDate {get; set;}
-
-    public Grocery(string groceryName, double price, DateTime expiryDate):base(groceryName, price){
-       this.expiryDate = expiryDate;
+    public Grocery(int id, string name, double price, string expiryDate)
+        : base(id, name, price)
+    {
+        ExpiryDate = expiryDate;
     }
 
-    public override void getProductInfo(){
-        Console.WriteLine($"Grocery: {getProductName()} and price: {getProductPrice()}");
-    } 
-
+    public override void DisplayProductInfo()
+    {
+        Console.WriteLine($"ID: {Id} | Grocery: {Name}, Price: {Price}$, Expiry: {ExpiryDate}");
+    }
 }

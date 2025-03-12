@@ -1,22 +1,15 @@
+public abstract class Product
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public double Price { get; set; }
 
-public abstract class Product{
-
-    private string productName;
-
-    private double productPrice;
-
-    public Product(string productName, double productPrice){
-        this.productName = productName;
-        this.productPrice = productPrice;
+    public Product(int id, string name, double price)
+    {
+        Id = id;
+        Name = name;
+        Price = price;
     }
 
-    public string getProductName(){
-        return productName;
-    }
-
-    public double getProductPrice(){
-        return productPrice;
-    }
-
-    public abstract void getProductInfo();
+    public abstract void DisplayProductInfo();
 }
