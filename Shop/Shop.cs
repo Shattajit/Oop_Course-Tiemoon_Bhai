@@ -10,7 +10,7 @@ class Shop
     public void ShowProducts()
     {
         Console.WriteLine("\nAvailable Products:");
-        foreach(Product product in Products)
+        foreach(Product product in Products) // here product is grocery or accesories 
         {
             product.DisplayProductInfo();
             /*
