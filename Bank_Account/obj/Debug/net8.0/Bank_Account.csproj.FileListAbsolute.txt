@@ -1,0 +1,15 @@
+/home/shattajit/Desktop/Oop_Course/Bank_Account/obj/Debug/net8.0/Bank_Account.GeneratedMSBuildEditorConfig.editorconfig
+/home/shattajit/Desktop/Oop_Course/Bank_Account/obj/Debug/net8.0/Bank_Account.AssemblyInfoInputs.cache
+/home/shattajit/Desktop/Oop_Course/Bank_Account/obj/Debug/net8.0/Bank_Account.AssemblyInfo.cs
+/home/shattajit/Desktop/Oop_Course/Bank_Account/obj/Debug/net8.0/Bank_Account.csproj.CoreCompileInputs.cache
+/home/shattajit/Desktop/Oop_Course/Bank_Account/obj/Debug/net8.0/Bank_Account.sourcelink.json
+/home/shattajit/Desktop/Oop_Course/Bank_Account/bin/Debug/net8.0/Bank_Account
+/home/shattajit/Desktop/Oop_Course/Bank_Account/bin/Debug/net8.0/Bank_Account.deps.json
+/home/shattajit/Desktop/Oop_Course/Bank_Account/bin/Debug/net8.0/Bank_Account.runtimeconfig.json
+/home/shattajit/Desktop/Oop_Course/Bank_Account/bin/Debug/net8.0/Bank_Account.dll
+/home/shattajit/Desktop/Oop_Course/Bank_Account/bin/Debug/net8.0/Bank_Account.pdb
+/home/shattajit/Desktop/Oop_Course/Bank_Account/obj/Debug/net8.0/Bank_Account.dll
+/home/shattajit/Desktop/Oop_Course/Bank_Account/obj/Debug/net8.0/refint/Bank_Account.dll
+/home/shattajit/Desktop/Oop_Course/Bank_Account/obj/Debug/net8.0/Bank_Account.pdb
+/home/shattajit/Desktop/Oop_Course/Bank_Account/obj/Debug/net8.0/Bank_Account.genruntimeconfig.cache
+/home/shattajit/Desktop/Oop_Course/Bank_Account/obj/Debug/net8.0/ref/Bank_Account.dll
