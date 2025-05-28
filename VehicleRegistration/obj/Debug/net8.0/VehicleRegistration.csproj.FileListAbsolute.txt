@@ -1,0 +1,15 @@
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/obj/Debug/net8.0/VehicleRegistration.GeneratedMSBuildEditorConfig.editorconfig
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/obj/Debug/net8.0/VehicleRegistration.AssemblyInfoInputs.cache
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/obj/Debug/net8.0/VehicleRegistration.AssemblyInfo.cs
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/obj/Debug/net8.0/VehicleRegistration.csproj.CoreCompileInputs.cache
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/obj/Debug/net8.0/VehicleRegistration.sourcelink.json
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/bin/Debug/net8.0/VehicleRegistration
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/bin/Debug/net8.0/VehicleRegistration.deps.json
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/bin/Debug/net8.0/VehicleRegistration.runtimeconfig.json
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/bin/Debug/net8.0/VehicleRegistration.dll
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/bin/Debug/net8.0/VehicleRegistration.pdb
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/obj/Debug/net8.0/VehicleRegistration.dll
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/obj/Debug/net8.0/refint/VehicleRegistration.dll
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/obj/Debug/net8.0/VehicleRegistration.pdb
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/obj/Debug/net8.0/VehicleRegistration.genruntimeconfig.cache
+/home/shattajit/Desktop/Oop_Course/VehicleRegistration/obj/Debug/net8.0/ref/VehicleRegistration.dll
